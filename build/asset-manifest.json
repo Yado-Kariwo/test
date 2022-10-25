@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.6e04b9f5.js",
+    "static/js/787.b7660067.chunk.js": "/static/js/787.b7660067.chunk.js",
+    "index.html": "/index.html",
+    "static/media/Vocabulary.csv": "/static/media/Vocabulary.878d6f719f1116f5e7dc.csv",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.6e04b9f5.js.map": "/static/js/main.6e04b9f5.js.map",
+    "787.b7660067.chunk.js.map": "/static/js/787.b7660067.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e04b9f5.js"
+  ]
+}
